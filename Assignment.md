@@ -2,6 +2,8 @@
 ## What is DevOps
 DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) to shorten the systems development life cycle and provide continuous delivery of high-quality software. It aims to create a culture and environment where building, testing, and releasing software can happen rapidly, frequently, and more reliably.
 
+![Devops](devops.PNG)
+
 The core principles of DevOps include:
 
 - Collaboration: Encouraging collaboration and communication between development, operations, and other stakeholders to break down silos and work towards common goals.
